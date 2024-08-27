@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "761608570710",
+    "project_id": "nyobak-bec2b",
+    "storage_bucket": "nyobak-bec2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761608570710:android:e12d5983d669a460dab8f7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9OAr3LhvTEhFZYUllJ2lMdWDdWuhyEC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761608570710:android:15a14c3aacfc433cdab8f7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9OAr3LhvTEhFZYUllJ2lMdWDdWuhyEC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761608570710:android:678ea94d0f33fd54dab8f7",
+        "android_client_info": {
+          "package_name": "com.example.pjbl3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9OAr3LhvTEhFZYUllJ2lMdWDdWuhyEC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
